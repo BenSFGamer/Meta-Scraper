@@ -1,4 +1,4 @@
-# Meta-Scraper
+# Meta-Web Scraper
 A web scraper
 
 In essence, it is a tool that utilizes the top web scraper tools that are currently out there.
